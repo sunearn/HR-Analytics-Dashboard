@@ -10,4 +10,3 @@ demographics.
 
 ● Refined report design for sharpened usability, ensuring 100% accuracy in insights and facilitating effective stakeholder
 communication.
-![home](https://github.com/user-attachments/assets/17d25e73-3b6e-4c30-8eab-5e7d5992cd69)
